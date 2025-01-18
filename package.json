@@ -4,12 +4,14 @@
   "private": true,
   "dependencies": {
     "@plasmicapp/cli": "^0.1.334",
+    "@plasmicapp/loader-react": "^1.0.373",
     "@plasmicapp/react-web": "^0.2.361",
     "@plasmicpkgs/react-aria": "^0.0.100",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
